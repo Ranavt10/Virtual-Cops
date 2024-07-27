@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2185304601
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: environmentprefab
+      Dependencies: {}
+    Info_1:
+      Name: factoryprefab
+      Dependencies: {}
+    Info_2:
+      Name: tunnelmapprefab
+      Dependencies: {}

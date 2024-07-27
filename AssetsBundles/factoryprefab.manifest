@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1776584022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53cb40612b6a2cda5ff7528dcfcd0ea1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e040df17b24e64ed5c4faff9032225f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 53cb40612b6a2cda5ff7528dcfcd0ea1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a15d6d2091c62264293b58c3fcbd0a4c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsBundlesWanted/factry.prefab
+Dependencies: []
