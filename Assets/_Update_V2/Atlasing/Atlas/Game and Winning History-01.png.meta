@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: ca7bbd849045cc84e91b03a9a22ab845
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game and Winning History-01_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1945
+        width: 548
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6188e7a6a7292124ba395937e9a79516
+      internalID: -1950772563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1943
+        width: 440
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6953a7a1f57e2446ac1f5d083ba1f0c
+      internalID: -1112058501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_21
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1977
+        width: 248
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f22b761aa95342b0747a702c4cd6a
+      internalID: -1303574804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_32
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1977
+        width: 202
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfe11e07107c2409a74127d90e0b16
+      internalID: 1166870365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_40
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1963
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798729f336cdc549b14eab1b24c79dc
+      internalID: -2103362687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1833
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237e117fdfe74249851a613b1c32a7e
+      internalID: 1130898217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1799
+        width: 1364
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e91ef2bf69c18438253b760a73b826
+      internalID: 311593966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_46
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1817
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0941688f97cf5834d892c60abd1159f1
+      internalID: 1868035555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_47
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1832
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99371e7cc59c3e64d9b764596f442f3e
+      internalID: -763303794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_48
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1313
+        width: 66
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51f5abff98d44f40a9fa79ba6cd824b
+      internalID: -1736535391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1756
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eaaa37e6bcc3848aad7cb797255bae
+      internalID: 730341554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_51
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1692
+        width: 87
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0479345fd2622a4e9cb432cf588448a
+      internalID: -304235799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1668
+        width: 1574
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8de7b5e14dd324eb6164fc19f54991
+      internalID: 1350438000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1626
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f479a4bf6da24a8f426c4f43306d6
+      internalID: -195348457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1565
+        width: 117
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1633a407941a41a9170c2d6216891
+      internalID: -43709745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game and Winning History-01_60
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1484
+        width: 131
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1e679f11641ad41b98fda0780e8bb2
+      internalID: 2010391279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game and Winning History-01_0: -1950772563
+      Game and Winning History-01_1: -1704975694
+      Game and Winning History-01_10: -2010836736
+      Game and Winning History-01_11: 1654610145
+      Game and Winning History-01_12: 1233245634
+      Game and Winning History-01_13: -1112058501
+      Game and Winning History-01_14: -1138230416
+      Game and Winning History-01_15: 1707746486
+      Game and Winning History-01_16: -31721210
+      Game and Winning History-01_17: 720455595
+      Game and Winning History-01_18: 3379871
+      Game and Winning History-01_19: 1231233503
+      Game and Winning History-01_2: -637004684
+      Game and Winning History-01_20: -1666036562
+      Game and Winning History-01_21: -1303574804
+      Game and Winning History-01_22: 1064380296
+      Game and Winning History-01_23: -229403857
+      Game and Winning History-01_24: -1400752313
+      Game and Winning History-01_25: -369320096
+      Game and Winning History-01_26: 347786898
+      Game and Winning History-01_27: -1011513647
+      Game and Winning History-01_28: 1269303362
+      Game and Winning History-01_29: 1357088351
+      Game and Winning History-01_3: 1654529750
+      Game and Winning History-01_30: -657384010
+      Game and Winning History-01_31: 1762336572
+      Game and Winning History-01_32: 1166870365
+      Game and Winning History-01_33: -1258574310
+      Game and Winning History-01_34: 688463989
+      Game and Winning History-01_35: -1786074499
+      Game and Winning History-01_36: 842501617
+      Game and Winning History-01_37: 1135087567
+      Game and Winning History-01_38: 2137376863
+      Game and Winning History-01_39: -768083958
+      Game and Winning History-01_4: 200686704
+      Game and Winning History-01_40: -2103362687
+      Game and Winning History-01_41: 1204176419
+      Game and Winning History-01_42: 1130898217
+      Game and Winning History-01_43: 858034754
+      Game and Winning History-01_44: 880434897
+      Game and Winning History-01_45: 311593966
+      Game and Winning History-01_46: 1868035555
+      Game and Winning History-01_47: -763303794
+      Game and Winning History-01_48: -1736535391
+      Game and Winning History-01_49: 730341554
+      Game and Winning History-01_5: -524301534
+      Game and Winning History-01_50: -1189611340
+      Game and Winning History-01_51: -304235799
+      Game and Winning History-01_52: 2130946317
+      Game and Winning History-01_53: 1350438000
+      Game and Winning History-01_54: -195348457
+      Game and Winning History-01_55: 1162263227
+      Game and Winning History-01_56: -43709745
+      Game and Winning History-01_57: 219460533
+      Game and Winning History-01_58: -862819685
+      Game and Winning History-01_59: 728656017
+      Game and Winning History-01_6: -1228829866
+      Game and Winning History-01_60: 2010391279
+      Game and Winning History-01_61: -514638823
+      Game and Winning History-01_62: 926222826
+      Game and Winning History-01_63: 116219291
+      Game and Winning History-01_7: -1725662042
+      Game and Winning History-01_8: -550241376
+      Game and Winning History-01_9: -512580228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

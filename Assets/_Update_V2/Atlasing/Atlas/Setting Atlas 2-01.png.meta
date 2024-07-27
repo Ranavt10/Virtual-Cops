@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: b5522220db092704e8ccad16a9e9f33d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1157
+        width: 375
+        height: 860
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b87b326b34914e9212c345b69ba0c
+      internalID: 29397098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1949
+        width: 162
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e52f40d9e469e48a2b42e72fe7b246
+      internalID: -1399092303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_4
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1942
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b934dae3d58dc499259cc057c45c70
+      internalID: 620625828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1244
+        width: 1387
+        height: 688
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae75e23b3fb97548a94a978f3250744
+      internalID: -2007516339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1202
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3f73f2bd5c0a6408d12fa4e0aee41f
+      internalID: 831850851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1194
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30529de994745ad4a95eae8cda177a31
+      internalID: -904642895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1202
+        width: 262
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33047237f56960541b7d4c6c624be33a
+      internalID: 1623300579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_10
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1199
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1f7161ccf14f4d957c5be67fe1f10
+      internalID: 648370100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_11
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1171
+        width: 241
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618ded9c4ce7f14bb6202b111f59001
+      internalID: 723805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_12
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1113
+        width: 84
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cb908488d1ed4fa5c7089cec2a095
+      internalID: 638338060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1105
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c55023d146920244b39ed2cc807693b
+      internalID: -882837143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1102
+        width: 388
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65425870ff65c8a40829606463cb2804
+      internalID: -640440321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1051
+        width: 123
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59bcc63e714745498e345c912287995
+      internalID: -2017303199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1014
+        width: 1357
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18943feb159b53449cb66ad79d3bd6c
+      internalID: 1618903610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 959
+        width: 175
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216248bfbcffdd346a79c19d1a6918ac
+      internalID: 1251693358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 867
+        width: 256
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9eb0b20c1276d44b73f80698c2d1de
+      internalID: -486528050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 845
+        width: 380
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3416b75f7e87ab48b10d1e27b46e7f3
+      internalID: -288077138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_35
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 843
+        width: 1020
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2adf2d81eba0be4eb54ba36207a48c2
+      internalID: 505794695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 776
+        width: 186
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32222ada5ae3cf84d93768d38c88a2ac
+      internalID: 1433070067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_51
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 731
+        width: 381
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de06fb906ec4946908a8aadd456cad
+      internalID: 1466017285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_52
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 754
+        width: 307
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ffb9e462dedf146b1b366dea18f231
+      internalID: -1228348169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 684
+        width: 140
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf611d77db4c24c8c0d3df271854c9
+      internalID: -1898765726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_64
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 254
+        width: 947
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b11c6f03bc84409b3c2cd3beed0b2
+      internalID: 2035942063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_65
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 668
+        width: 181
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd113d4a8290aa4a9e752241745bb72
+      internalID: -709298397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_66
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 668
+        width: 181
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad069dfb4c6b04c82d346a5110897c
+      internalID: -2086768439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 592
+        width: 232
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d6ee3adfb5b449b09af75ee2e1469
+      internalID: -724605737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 501
+        width: 135
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914ce62af9a1094bbadb5495b5047a2
+      internalID: -1204367914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 409
+        width: 191
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c293b766dd767746bc65aaba3ac852e
+      internalID: 1880271559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 316
+        width: 169
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e7827c237a8c746948b4c97382bb0e
+      internalID: -535555344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 226
+        width: 254
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db990daaf8930a4f93699ef947b7bbb
+      internalID: 35587769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 134
+        width: 125
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1b5809db5be842bed50f28bf13ce2
+      internalID: 1912552854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_112
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 74
+        width: 833
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ec9eff0d986d44a0d1325cb03744a
+      internalID: -805216321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Atlas 2-01_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 144
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9541e5cad2b95541838fc59ec91af8e
+      internalID: -1413121984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Setting Atlas 2-01_0: 29397098
+      Setting Atlas 2-01_1: 2141243298
+      Setting Atlas 2-01_10: 648370100
+      Setting Atlas 2-01_100: 573319658
+      Setting Atlas 2-01_101: 189407063
+      Setting Atlas 2-01_102: -1538792166
+      Setting Atlas 2-01_103: -429214365
+      Setting Atlas 2-01_104: -431483062
+      Setting Atlas 2-01_105: -462931513
+      Setting Atlas 2-01_106: 1279606029
+      Setting Atlas 2-01_107: -1466520720
+      Setting Atlas 2-01_108: -435367543
+      Setting Atlas 2-01_109: 1973677907
+      Setting Atlas 2-01_11: 723805
+      Setting Atlas 2-01_110: -2117818797
+      Setting Atlas 2-01_111: -1805215812
+      Setting Atlas 2-01_112: -805216321
+      Setting Atlas 2-01_113: 1356211231
+      Setting Atlas 2-01_114: -269631305
+      Setting Atlas 2-01_115: -158258977
+      Setting Atlas 2-01_116: 1752497562
+      Setting Atlas 2-01_117: 1014186068
+      Setting Atlas 2-01_118: -1871725471
+      Setting Atlas 2-01_119: -1030052535
+      Setting Atlas 2-01_12: 638338060
+      Setting Atlas 2-01_120: -1270625159
+      Setting Atlas 2-01_121: 809079439
+      Setting Atlas 2-01_122: 1175688105
+      Setting Atlas 2-01_123: 1907562216
+      Setting Atlas 2-01_124: 1817695305
+      Setting Atlas 2-01_125: 1376243950
+      Setting Atlas 2-01_126: 1505959356
+      Setting Atlas 2-01_127: -1352031155
+      Setting Atlas 2-01_128: -1919632917
+      Setting Atlas 2-01_129: 1936878114
+      Setting Atlas 2-01_13: -1647267082
+      Setting Atlas 2-01_130: -817508596
+      Setting Atlas 2-01_131: -872238535
+      Setting Atlas 2-01_132: -270472738
+      Setting Atlas 2-01_133: -1413942706
+      Setting Atlas 2-01_134: -1647387490
+      Setting Atlas 2-01_135: -1941570541
+      Setting Atlas 2-01_136: -731678844
+      Setting Atlas 2-01_137: 1120506464
+      Setting Atlas 2-01_138: -1413121984
+      Setting Atlas 2-01_139: -69429991
+      Setting Atlas 2-01_14: -882837143
+      Setting Atlas 2-01_140: 172797619
+      Setting Atlas 2-01_141: -2067741782
+      Setting Atlas 2-01_142: 379525763
+      Setting Atlas 2-01_143: 1356757489
+      Setting Atlas 2-01_15: 1500992385
+      Setting Atlas 2-01_16: -640440321
+      Setting Atlas 2-01_17: -2017303199
+      Setting Atlas 2-01_18: -913965531
+      Setting Atlas 2-01_19: 1064229795
+      Setting Atlas 2-01_2: -1399092303
+      Setting Atlas 2-01_20: 1934683263
+      Setting Atlas 2-01_21: 1618903610
+      Setting Atlas 2-01_22: 1251693358
+      Setting Atlas 2-01_23: -116794192
+      Setting Atlas 2-01_24: -1752924907
+      Setting Atlas 2-01_25: -1537530624
+      Setting Atlas 2-01_26: -372656782
+      Setting Atlas 2-01_27: -486528050
+      Setting Atlas 2-01_28: 1096092174
+      Setting Atlas 2-01_29: 1061337724
+      Setting Atlas 2-01_3: -37646209
+      Setting Atlas 2-01_30: 2078021064
+      Setting Atlas 2-01_31: -881785591
+      Setting Atlas 2-01_32: -1313761099
+      Setting Atlas 2-01_33: -616360563
+      Setting Atlas 2-01_34: -288077138
+      Setting Atlas 2-01_35: 505794695
+      Setting Atlas 2-01_36: 1499854515
+      Setting Atlas 2-01_37: -1091522699
+      Setting Atlas 2-01_38: 1663934403
+      Setting Atlas 2-01_39: 191804115
+      Setting Atlas 2-01_4: 620625828
+      Setting Atlas 2-01_40: 1469503785
+      Setting Atlas 2-01_41: -1380603494
+      Setting Atlas 2-01_42: 1187577571
+      Setting Atlas 2-01_43: -533888084
+      Setting Atlas 2-01_44: -448453727
+      Setting Atlas 2-01_45: 1433070067
+      Setting Atlas 2-01_46: -907746442
+      Setting Atlas 2-01_47: -849407802
+      Setting Atlas 2-01_48: 1007572711
+      Setting Atlas 2-01_49: -1960123389
+      Setting Atlas 2-01_5: -1108170400
+      Setting Atlas 2-01_50: -881039902
+      Setting Atlas 2-01_51: 1466017285
+      Setting Atlas 2-01_52: -1228348169
+      Setting Atlas 2-01_53: -1970314108
+      Setting Atlas 2-01_54: 1580471236
+      Setting Atlas 2-01_55: 470390112
+      Setting Atlas 2-01_56: 1801805367
+      Setting Atlas 2-01_57: -1291996454
+      Setting Atlas 2-01_58: 1577943793
+      Setting Atlas 2-01_59: -1898765726
+      Setting Atlas 2-01_6: -2007516339
+      Setting Atlas 2-01_60: -633809543
+      Setting Atlas 2-01_61: 663327965
+      Setting Atlas 2-01_62: -2107795216
+      Setting Atlas 2-01_63: 647657978
+      Setting Atlas 2-01_64: 2035942063
+      Setting Atlas 2-01_65: -709298397
+      Setting Atlas 2-01_66: -2086768439
+      Setting Atlas 2-01_67: -724605737
+      Setting Atlas 2-01_68: -884734873
+      Setting Atlas 2-01_69: -1129773052
+      Setting Atlas 2-01_7: 831850851
+      Setting Atlas 2-01_70: -789810403
+      Setting Atlas 2-01_71: 1250937860
+      Setting Atlas 2-01_72: -1885561607
+      Setting Atlas 2-01_73: -1543796952
+      Setting Atlas 2-01_74: -820660942
+      Setting Atlas 2-01_75: 973818576
+      Setting Atlas 2-01_76: -1204367914
+      Setting Atlas 2-01_77: 1057268210
+      Setting Atlas 2-01_78: 230684535
+      Setting Atlas 2-01_79: 458181063
+      Setting Atlas 2-01_8: -904642895
+      Setting Atlas 2-01_80: -1686648831
+      Setting Atlas 2-01_81: 1856297416
+      Setting Atlas 2-01_82: 1880271559
+      Setting Atlas 2-01_83: -467779619
+      Setting Atlas 2-01_84: 807387685
+      Setting Atlas 2-01_85: 1194770658
+      Setting Atlas 2-01_86: -1037478213
+      Setting Atlas 2-01_87: -133057332
+      Setting Atlas 2-01_88: -636221472
+      Setting Atlas 2-01_89: -535555344
+      Setting Atlas 2-01_9: 1623300579
+      Setting Atlas 2-01_90: -482295260
+      Setting Atlas 2-01_91: 306630417
+      Setting Atlas 2-01_92: -364459075
+      Setting Atlas 2-01_93: 35587769
+      Setting Atlas 2-01_94: -241459268
+      Setting Atlas 2-01_95: 851696102
+      Setting Atlas 2-01_96: 1990667362
+      Setting Atlas 2-01_97: -604773218
+      Setting Atlas 2-01_98: -1262876305
+      Setting Atlas 2-01_99: 1912552854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

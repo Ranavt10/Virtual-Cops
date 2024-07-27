@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: ad3a715e335b7144eac562c04d41e3eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: History Atlas-01_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1948
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effc5dbadbe07ac4fb98e847fbc81d5b
+      internalID: -1363197281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1966
+        width: 167
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31176cbc3a01541bfa71ef5f0abc4a
+      internalID: 1518769310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1773
+        width: 542
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476ce214b425fa47a9b004ccae17cfa
+      internalID: -1129534365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1803
+        width: 387
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35760e8282249924a9d3342f8de3219a
+      internalID: 340346157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1612
+        width: 542
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b263db7501a74186dbedbb923a1c2
+      internalID: -1524551933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_22
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1644
+        width: 474
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd5f7ffe3255b4478892f70deb9b6fa
+      internalID: 1473175730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1446
+        width: 542
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50184e8b1372a478af77c33a8db5a7
+      internalID: 2144894701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: History Atlas-01_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1479
+        width: 447
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca10e8ef33eb274e887b198be019654
+      internalID: -1191170116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      History Atlas-01_0: -1363197281
+      History Atlas-01_1: 1518769310
+      History Atlas-01_10: 340346157
+      History Atlas-01_11: 1408754646
+      History Atlas-01_12: -454599690
+      History Atlas-01_13: 1356554959
+      History Atlas-01_14: -1928553810
+      History Atlas-01_15: -2072300978
+      History Atlas-01_16: 1894898752
+      History Atlas-01_17: 1963771761
+      History Atlas-01_18: 1138306423
+      History Atlas-01_19: -51939423
+      History Atlas-01_2: -1230242933
+      History Atlas-01_20: -1094959807
+      History Atlas-01_21: -1524551933
+      History Atlas-01_22: 1473175730
+      History Atlas-01_23: 616452300
+      History Atlas-01_24: 2019294839
+      History Atlas-01_25: -578563188
+      History Atlas-01_26: -1973061588
+      History Atlas-01_27: 2110972371
+      History Atlas-01_28: -1889497224
+      History Atlas-01_29: 364300063
+      History Atlas-01_3: -2052067957
+      History Atlas-01_30: 1634343647
+      History Atlas-01_31: 569348165
+      History Atlas-01_32: -578991868
+      History Atlas-01_33: -1620323704
+      History Atlas-01_34: 901521830
+      History Atlas-01_35: 2103420666
+      History Atlas-01_36: 2144894701
+      History Atlas-01_37: -1191170116
+      History Atlas-01_38: 1124483647
+      History Atlas-01_39: -29828962
+      History Atlas-01_4: 1214622761
+      History Atlas-01_40: -102275776
+      History Atlas-01_41: 2039878226
+      History Atlas-01_42: -934046324
+      History Atlas-01_43: 336046173
+      History Atlas-01_44: 1544458350
+      History Atlas-01_45: 1898361844
+      History Atlas-01_46: 411451196
+      History Atlas-01_47: 577907978
+      History Atlas-01_48: -834619724
+      History Atlas-01_5: -823905016
+      History Atlas-01_6: 412699381
+      History Atlas-01_7: 240504924
+      History Atlas-01_8: -618961187
+      History Atlas-01_9: -1129534365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

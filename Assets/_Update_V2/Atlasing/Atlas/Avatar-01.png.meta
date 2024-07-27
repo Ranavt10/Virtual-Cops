@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 58a6b06e45d4a684797297a492af912c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6968428004844486702
+    second: Avatar_BG
+  - first:
+      213: 6422806207434647139
+    second: Avatar_Yellow
+  - first:
+      213: 2829702763097883479
+    second: Avatar_BG
+  - first:
+      213: 4376571874718035165
+    second: Avatar_Bg
+  - first:
+      213: 4426133905530094199
+    second: YellowBgAvatar
+  - first:
+      213: 8738721632791469540
+    second: Avatar_Text
+  - first:
+      213: 5509270773141006468
+    second: Avatar_Blue
+  - first:
+      213: -3265115802621117863
+    second: Avatar-01_7
+  - first:
+      213: 1963159063345420499
+    second: Purple_Yellow_Avatar_Bg
+  - first:
+      213: -1579112277599722318
+    second: Banner_Text
+  - first:
+      213: 7909560617341820182
+    second: Avatar_Fire
+  - first:
+      213: -6010909963892199210
+    second: TextField_BG
+  - first:
+      213: 5106766685614586386
+    second: Username_Text
+  - first:
+      213: -8585837787491550197
+    second: Rewrite_Icon
+  - first:
+      213: -9048281807086758718
+    second: Avatar_Dragon
+  - first:
+      213: 7026309656070434338
+    second: User_ID
+  - first:
+      213: 472749098137827043
+    second: Copy_Icon
+  - first:
+      213: -8887447246718177922
+    second: RedBlueAvatarBg
+  - first:
+      213: 660071831086190071
+    second: Banner_BG
+  - first:
+      213: -6469423065469242039
+    second: Yellow_Banner
+  - first:
+      213: 1459553792989371813
+    second: Banner_Bg
+  - first:
+      213: 8855762071529426415
+    second: P_Yellow_Banner
+  - first:
+      213: 8854122805724873061
+    second: Close_Btn
+  - first:
+      213: -3451800243245647260
+    second: PurpleAvatarBg
+  - first:
+      213: 5492496180925627294
+    second: Profile_Text
+  - first:
+      213: 1090025244898507332
+    second: Red_Blue_Banner
+  - first:
+      213: -4226120446025176030
+    second: Purple_Banner
+  - first:
+      213: -7330305740151415644
+    second: Avatar-01_29
+  - first:
+      213: 4227571584148880288
+    second: Blue_Banner
+  - first:
+      213: 7857870401497958716
+    second: Purchase_Btn
+  - first:
+      213: -7726641588705538805
+    second: Avatar_Yellow_Selected
+  - first:
+      213: 7901377928481293602
+    second: LGBT_Banner
+  - first:
+      213: 9111055033294875250
+    second: Avatar_Fire_Selected
+  - first:
+      213: 2449677127459823382
+    second: Avatar_Blue_Selected
+  - first:
+      213: 7659396145340871740
+    second: Avatar_Dragon_Selected
+  - first:
+      213: -1531689591585554338
+    second: Avatar-01_37
+  - first:
+      213: -2189865295988103560
+    second: BlueAvatarBg
+  - first:
+      213: 7944246596279488349
+    second: RaindbowAvatarBg
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Avatar_BG
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1258
+        width: 178
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3c5066ab2b4f90800000000000000
+      internalID: -6968428004844486702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Yellow
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1873
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e0575734622950800000000000000
+      internalID: 6422806207434647139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_BG
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1873
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753046eabaf154720800000000000000
+      internalID: -4610529558470847640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Bg
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1248
+        width: 413
+        height: 778
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca8869ee4bcbc30800000000000000
+      internalID: 4376571874718035165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowBgAvatar
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1804
+        width: 506
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720f6f1659cc6d30800000000000000
+      internalID: 4426133905530094199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Text
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1806
+        width: 148
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed9e89760d264970800000000000000
+      internalID: 8738721632791469540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Blue
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1705
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e28c249cd47c40800000000000000
+      internalID: 5509270773141006468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar-01_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1702
+        width: 283
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af0421a7affa2d0800000000000000
+      internalID: -3265115802621117863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_Yellow_Avatar_Bg
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1600
+        width: 507
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8da4054ca8e3b10800000000000000
+      internalID: 1963159063345420499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_Text
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1635
+        width: 155
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e53100cdd51ae0800000000000000
+      internalID: -1579112277599722318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Fire
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1537
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d141e897764cd60800000000000000
+      internalID: 7909560617341820182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextField_BG
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1544
+        width: 386
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d079592c35f49ca0800000000000000
+      internalID: -6010909963892199210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Username_Text
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1472
+        width: 212
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a3bd66e31eed640800000000000000
+      internalID: 5106766685614586386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rewrite_Icon
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1480
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cb071a50af8d880800000000000000
+      internalID: -8585837787491550197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Dragon
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1369
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4d6f4e2ab0e6280800000000000000
+      internalID: -9048281807086758718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: User_ID
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1368
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea9fbb767728160800000000000000
+      internalID: 7026309656070434338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copy_Icon
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1395
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6346eccca8f8600800000000000000
+      internalID: 472749098137827043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBlueAvatarBg
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1398
+        width: 500
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de65b11d179a480800000000000000
+      internalID: -8887447246718177922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_BG
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 437
+        width: 319
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd422a45db092900800000000000000
+      internalID: 660071831086190071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Banner
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1109
+        width: 283
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945bcf89ffdf736a0800000000000000
+      internalID: -6469423065469242039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner_Bg
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1108
+        width: 283
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad94b11170614410800000000000000
+      internalID: 1459553792989371813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Yellow_Banner
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 996
+        width: 283
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed83e82facf5ea70800000000000000
+      internalID: 8855762071529426415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_Btn
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 940
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618ae8d7c920ea70800000000000000
+      internalID: 8854122805724873061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleAvatarBg
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1209
+        width: 499
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7cb997fdb810d0800000000000000
+      internalID: -3451800243245647260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_Text
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 953
+        width: 104
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf2421d24493c40800000000000000
+      internalID: 5492496180925627294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Blue_Banner
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 872
+        width: 284
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a326e5f2c802f00800000000000000
+      internalID: 1090025244898507332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple_Banner
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 746
+        width: 282
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c67a468ddc955c0800000000000000
+      internalID: -4226120446025176030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Banner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 625
+        width: 284
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abbab705f95baa30800000000000000
+      internalID: 4227571584148880288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purchase_Btn
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 580
+        width: 369
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3987545f73cc0d60800000000000000
+      internalID: 7857870401497958716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Yellow_Selected
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 340
+        width: 344
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d427e996475c490800000000000000
+      internalID: -7726641588705538805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LGBT_Banner
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 502
+        width: 283
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2254d37dc5557ad60800000000000000
+      internalID: 7901377928481293602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Fire_Selected
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 348
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6394c748f07e70800000000000000
+      internalID: 9111055033294875250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Blue_Selected
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 349
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f54a45e500ff120800000000000000
+      internalID: 2449677127459823382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_Dragon_Selected
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 29
+        width: 341
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f9058634ab4a60800000000000000
+      internalID: 7659396145340871740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueAvatarBg
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1017
+        width: 505
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766cae9d190c91e0800000000000000
+      internalID: -2189865295988103560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaindbowAvatarBg
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 837
+        width: 507
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f485b5032af3e60800000000000000
+      internalID: 7944246596279488349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Avatar-01_7: -3265115802621117863
+      Avatar_BG: -6968428004844486702
+      Avatar_Bg: 4376571874718035165
+      Avatar_Blue: 5509270773141006468
+      Avatar_Blue_Selected: 2449677127459823382
+      Avatar_Dragon: -9048281807086758718
+      Avatar_Dragon_Selected: 7659396145340871740
+      Avatar_Fire: 7909560617341820182
+      Avatar_Fire_Selected: 9111055033294875250
+      Avatar_Text: 8738721632791469540
+      Avatar_Yellow: 6422806207434647139
+      Avatar_Yellow_Selected: -7726641588705538805
+      Banner_BG: 660071831086190071
+      Banner_Bg: 1459553792989371813
+      Banner_Text: -1579112277599722318
+      BlueAvatarBg: -2189865295988103560
+      Blue_Banner: 4227571584148880288
+      Close_Btn: 8854122805724873061
+      Copy_Icon: 472749098137827043
+      LGBT_Banner: 7901377928481293602
+      P_Yellow_Banner: 8855762071529426415
+      Profile_Text: 5492496180925627294
+      Purchase_Btn: 7857870401497958716
+      PurpleAvatarBg: -3451800243245647260
+      Purple_Banner: -4226120446025176030
+      Purple_Yellow_Avatar_Bg: 1963159063345420499
+      RaindbowAvatarBg: 7944246596279488349
+      RedBlueAvatarBg: -8887447246718177922
+      Red_Blue_Banner: 1090025244898507332
+      Rewrite_Icon: -8585837787491550197
+      TextField_BG: -6010909963892199210
+      User_ID: 7026309656070434338
+      Username_Text: 5106766685614586386
+      YellowBgAvatar: 4426133905530094199
+      Yellow_Banner: -6469423065469242039
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
